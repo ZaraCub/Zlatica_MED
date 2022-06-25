@@ -1,0 +1,118 @@
+
+
+
+
+
+#more1 {display: none;}
+
+#more2 {display: none;}
+
+#more3 {display: none;}
+
+
+
+
+
+
+
+
+.navbar {
+	background-image: url("../images/honey-bee light.jpg");
+	font-family: "Times New Roman", Times, serif;
+	font-size: 140%;
+	font-weight: bold;
+}
+
+div .video {
+	margin: 10%;
+}
+
+div .bs {
+	margin-left: 20% !important;
+}
+
+.p {
+	font-size: 10px;
+}
+
+.r2a img, .r2b img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.r2a h2, .r2b h2, .r3 h2 {
+	text-align: center;
+}
+
+.naslov {
+	color: white;
+	font-family: Lucida Handwriting, cursive, sans-serif;
+	font-size: 50px;
+}
+
+h3 {
+	font-family: Lucida Handwriting, cursive, sans-serif;
+	font-size: 20px;
+	color: rgb(46, 35, 0);
+}
+
+
+.r3 {
+	width: 100%;
+	height: 120px;
+	background-image: url("../images/honey-bee dark.jpg");
+	margin-bottom: 10px;
+	margin-top: 20px;
+	align-items: center;
+	justify-content: center;
+}
+
+.bg-image {
+	opacity: 0.5;
+}
+
+
+
+div {
+	padding: 30px;
+}
+
+table {
+	align-items: center;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+
+
+
+}
+
+.r4a, .r4b, .r5a, .r5b {
+	display: flex;
+	border: 1px solid gray;
+	margin: 10px 10px;
+}
+
+
+
+
+
+
+
+.footer {
+	background: #161616;
+	padding: 120px 0;
+	text-align: center
+}
+
+
+.footer h4 {
+	font-weight: lighter;
+	color: #fff;
+}
+
+.footer p {
+	color: grey;
+	font-weight: lighter;
+}
